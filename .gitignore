@@ -1,0 +1,11 @@
+# Prettier
+.prettierrc
+.prettierrc.*
+.prettierignore
+prettier.config.*
+.prettier-cache
+
+# Node (kalau Prettier diinstall lewat npm)
+node_modules/
+package.json
+package-lock.json
